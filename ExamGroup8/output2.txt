@@ -1,0 +1,4 @@
+Bug Title AAA;Critical
+Bug Title 125;Major
+Bug Title 1;Minor
+Bug Title 007;Cosmetic
